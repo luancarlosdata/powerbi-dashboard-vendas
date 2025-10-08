@@ -16,14 +16,14 @@ The dashboard aims to:
 - **Key KPIs:** indicators such as growth, average sales, and target achievements.
 
 ## How to Open the Dashboard
-1. Download the `.pbix` file [download link].
+1. Download the `.pbix` file [https://github.com/luancarlosdata/powerbi-dashboard-vendas/raw/refs/heads/main/Sales.pbix].
 2. Open it in **Power BI Desktop** (recommended version: 2023 or later).
 3. Refresh the data if needed (for external sources).
 
 ## Data Sources
 - Sample/fake data created for study and demonstration purposes.
 
-## Dashboard Screenshots
+## Dashboard Screenshot
 ![Screenshot](screenshot_dashboard.png)
 
 
