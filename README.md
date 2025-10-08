@@ -24,6 +24,7 @@ The dashboard aims to:
 - Sample/fake data created for study and demonstration purposes.
 
 ## Dashboard Screenshots
+![Screenshot](print_sale_dashboard.png)
 
 
 Created by [Luan Carlos]
