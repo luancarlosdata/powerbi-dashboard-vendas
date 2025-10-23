@@ -26,6 +26,8 @@ The dashboard aims to:
 ## Dashboard Screenshot
 ![Screenshot](screenshot_dashboard.png)
 ![Screenshot](db_vendas_screenshot.png)
+![Screenshot](vendas_amazon.png)
+
 
 
 Created by [Luan Carlos]
